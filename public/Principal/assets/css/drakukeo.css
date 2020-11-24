@@ -1,0 +1,89 @@
+.drakukeo {
+    background-position: center center !important;
+    background-size: cover !important;
+    height: 180px;
+}
+
+
+.drakukeo1{
+    background-position: center center !important;
+    background-size: cover !important;
+    height: 180px;
+}
+
+
+@media screen and (min-width: 150px)and (max-width: 299px) {
+    .drakukeo {
+        background-position: center center !important;
+        background-size: cover !important;
+        height: 50px;
+    }
+
+
+    .drakukeo1{
+        background-position: center center !important;
+        background-size: cover !important;
+        height: 60px;
+    }
+    #thead{
+        font-size: 10px;
+    }
+    #drakukeo_sub{
+        display: none;
+    }
+}
+@media screen and (min-width: 300px)and (max-width: 399px) {
+    .drakukeo {
+        background-position: center center !important;
+        background-size: cover !important;
+        height: 50px;
+    }
+
+
+    .drakukeo1{
+        background-position: center center !important;
+        background-size: cover !important;
+        height: 60px;
+    }
+    #thead{
+        font-size: 15px;
+    }
+    #drakukeo_sub{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 400px) and (max-width: 549px){
+    .drakukeo {
+        background-position: center center !important;
+        background-size: cover !important;
+        height: 85px;
+    }
+
+
+    .drakukeo1{
+        background-position: center center !important;
+        background-size: cover !important;
+        height: 100px;
+    }
+
+    #drakukeo_sub{
+        display: none;
+    }
+}
+@media screen and (min-width: 550px) and (max-width: 767px){
+    .drakukeo {
+        background-position: center center !important;
+        background-size: cover !important;
+        height: 115px;
+    }
+
+
+    .drakukeo1{
+        background-position: center center !important;
+        background-size: cover !important;
+        height: 150px;
+    }
+
+
+}
