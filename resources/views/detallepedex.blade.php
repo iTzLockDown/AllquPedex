@@ -126,6 +126,15 @@
                         <tr  style="vertical-align : middle;text-align:center;">
 
 
+                            <td colspan="3"  style="vertical-align : middle;text-align:center;" >
+                                GENEALOGIA PARTE DE PAPÁ
+
+                            </td>
+
+                        </tr>
+                        <tr  style="vertical-align : middle;text-align:center;">
+
+
                             <td rowspan="4" style="vertical-align : middle;text-align:center;" >
                                 @if($mascota->padreid!=null)
                                     <a href="/images/{{$mascota->imgpadre}}" class="img-pop-up">
@@ -239,10 +248,19 @@
                         </tr>
                         <tr  style="vertical-align : middle;text-align:center;">
 
+
+                            <td colspan="3"  style="vertical-align : middle;text-align:center;" >
+                                GENEALOGIA PARTE DE MAMÁ
+
+                            </td>
+
+                        </tr>
+                        <tr  style="vertical-align : middle;text-align:center;">
+
                             <td rowspan="4" style="vertical-align : middle;text-align:center;">
                                 @if($mascota->madreid!=null)
-                                    <a href="/images/{{$mascota->imgmadre}}" class="img-pop-up">
-                                        <div class="drakukeo1" style="background: url('/images/{{$mascota->imgmadre}}');"></div>
+                                    <a href="/images/{{$mascota->imgmadre}}" class="img-pop-up ">
+                                        <div class="drakukeo1 " style="background: url('/images/{{$mascota->imgmadre}}');"></div>
                                     </a>
                                     <div>
                                         <a style="color: #000" href="{{route('detalle.pedex.animal', array ($mascota->madreid))}}">{{$mascota->nommadre}}</a>

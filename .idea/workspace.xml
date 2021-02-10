@@ -6,47 +6,13 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:heroku" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5118b57-55dd-4af1-9f9b-23c32024f51b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Principal/assets/css/drakukeo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/details.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AdministradorController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AdministradorController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1601249450mirada-perros.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1601249511descarga.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1601249721imagen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1601249779descarga (1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/160124984193255843_831169820711550_3641125406414733312_n.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1601250149logoallqu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1601250179gato-1502194230861.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1601250214fondofresco.jpg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1601250263descarga (1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1601250300imagen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1601250341descarga.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1601250369gatuno.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1601250428gatuno.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1601250486gatuno.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1601250532-que-nos-dice-el-perro-con-los-movimientos-de-su-cola_-655x368.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1605064752Captura de pantalla (10).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1605064860Captura de pantalla (10).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1605064981Captura de pantalla (10).png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/detallepedex.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/detallepedex.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/principal.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/principal.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,6 +159,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.last.introduce.type" value="CONST" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -255,7 +227,10 @@
       <workItem from="1603548586128" duration="5888000" />
       <workItem from="1605062977622" duration="3175000" />
       <workItem from="1605114572566" duration="1886000" />
-      <workItem from="1606177323261" duration="11140000" />
+      <workItem from="1606177323261" duration="11774000" />
+      <workItem from="1607107615950" duration="205000" />
+      <workItem from="1608740350492" duration="839000" />
+      <workItem from="1612927710832" duration="2952000" />
     </task>
     <servers />
   </component>
@@ -276,35 +251,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="422" y="161" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597095502889">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="422" y="161" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1597095502889" />
-    <state x="0" y="175" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597180062535">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="0" y="175" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1597180062535" />
-    <state x="413" y="118" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1600656833956">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="413" y="118" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1600656833956" />
-    <state x="365" y="0" width="650" height="728" key="#phpunit.xml" timestamp="1597280064700">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="365" y="0" width="650" height="728" key="#phpunit.xml/0.0.1366.728@0.0.1366.728" timestamp="1597280064700" />
-    <state x="184" y="8" key="SettingsEditor" timestamp="1597373524036">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597373524036" />
-    <state x="391" y="81" width="583" height="566" key="find.popup" timestamp="1599430552727">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="391" y="81" width="583" height="566" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1599430552727" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1596925153804">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1596925153804" />
   </component>
 </project>
